@@ -1,4 +1,4 @@
-# cart-api Project
+# Opportunity Management System using Quarkus and MongoDB
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
